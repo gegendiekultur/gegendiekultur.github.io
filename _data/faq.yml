@@ -1,0 +1,14 @@
+- frage: "Was kostet der Versand?"
+  antwort: "Die Versandkosten sind abhängig von der Menge der bestellten Sticker. Bis etwa 150 Sticker kostet der Versand 1.60€, darüber 2.60€. Ab etwa 350Stickern wird es nochmal etwas teurer."
+
+- frage: "Wie bestelle ich?"
+  antwort: "Bestellen kannst du per Mail, Jabber, Twitter oder Instagram. Mit Jabber ist die Verschlüsselung (OTR oder OMEMO) besonders einfach, was sehr zum Schutz deiner Daten beiträgt."
+
+- frage: "Wie bezahle ich?"
+  antwort: "Am besten per Cryptowährung (Bitcoin, Litecoin, Monero). Aber paypal geht auch. Wenn du beides nicht hast, finden wir meist eine trotzdem eine Lösung!"
+
+- frage: "Habe ich ein Widerrufsrecht?"
+  antwort: "Nein. Da es sich hierbei nicht um ein gewerbliches Angebot handelt, sondern die Sticker lediglich zum Selbstkostenpreis abgegeben werden, gibt es auch kein Widerrufsrecht."
+
+- frage: "Was passiert mit meinen Daten?"
+  antwort: "Deine Adresse wird auf die Briefmarken gedruckt, dadurch bekommt sie (die Post bekommt sie ohnehin, da sie ja den Brief zu dir bringen). Deine Adresse wird auf einer verschlüsselten Festplatte in dem Zeitraum gespeichert zwischen Eingang der Bestellung und dem Versand, danach wird sie gelöscht. Die Nachrichten mit Bestellung, Adresse, etc werden gelöscht, sobald du mitteilst, dass die Sticker angekommen sind. Sonst meist etwa eine Woche nachdem die Sticker verschickt wurden. Natürlich können die Mailanbieter, Twitter, Instagram, etc die Nachrichten trotzdem noch irgendwo speichern. Deswegen ist es am besten sich einen Jabberaccount anzulegen, was einfach und kostenlos ist, und darüber zu bestellen oder die Nachrichten, zumindest die mit deiner Adresse per GPG zu verschlüsseln."
