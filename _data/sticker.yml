@@ -20,7 +20,7 @@
   costs: "40Sticker/2€"
   picture: "afalogoklein.jpg"
   size: "Ø5cm"
-  available: 0
+  available: 1
 
 - name: "Kein Schlussstrich"
   costs: "30Sticker/2€"
@@ -28,11 +28,11 @@
   size: "15x10cm"
   available: 1
 
-#- name: Merkava
-#  costs: "20 Sticker/2€"
-#  picture: "merkava.jpg"
-#  size: "Durchmesser: 10cm"
-#  available: 0
+- name: Merkava
+  costs: "20 Sticker/2€"
+  picture: "merkava.jpg"
+  size: "Ø10cm"
+  available: 1
 
 - name: "Free Gaza from Hamas"
   costs: "50Sticker/2€"
