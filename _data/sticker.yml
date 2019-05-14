@@ -1,3 +1,9 @@
+- name: "Free Gaza From Hamas - hoch"
+  costs: "50Sticker/2€"
+  picture: "freegazafromhamas.jpg"
+  size: "5x15,5cm"
+  available: 1
+
 - name: "FGHT BDS"
   costs: "80Sticker/2€"
   picture: "fghtbds_web.jpg"
