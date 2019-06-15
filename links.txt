@@ -8,3 +8,4 @@
 #freegazaold	- Free Gaza From Hamas (quadratisch)
 #solidarity	- Solidarity
 #fckbds		- FCKBDS
+#key		- GPG-Key
