@@ -47,19 +47,19 @@
   available: 1
   link: "merkava"
 
+- name: "Solidarity"
+  costs: "50Sticker/2€"
+  picture: "solidarity.jpg"
+  size: "5x14,5cm"
+  available: 1
+  link: "solidarity"
+
 - name: "Free Gaza from Hamas"
   costs: "50Sticker/2€"
   picture: "freegazasqr.jpg"
   size: "10x10cm"
   available: 0
   link: "freegazaold"
-
-- name: "Solidarity"
-  costs: "50Sticker/2€"
-  picture: "solidarity.jpg"
-  size: "5x14,5cm"
-  available: 0
-  link: "solidarity"
 
 - name: "FCK BDS"
   costs: "50Sticker/2€"
