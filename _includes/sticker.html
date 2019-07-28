@@ -3,7 +3,7 @@
 	<img src="/pictures/{{ item.picture }}" alt="{{ item.name }}" style="width:100%" {% if item.available == 0 %} class="soldout"{% endif %}>
 	<div class="container">
 		<p> {{ item.name }} | {{item.size }} | {{ item.costs  }}
-		<br>{% if item.available == 0 %} Derzeit nicht verfügbar {% endif %} </p>
+		<br>{% if item.available == 0 %}<font color="#FF0000"><b> Derzeit nicht verfügbar</b></font> {% endif %} </p>
 	</div>
 </div>
 {% endfor %}
