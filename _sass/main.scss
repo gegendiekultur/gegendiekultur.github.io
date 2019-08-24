@@ -59,7 +59,11 @@
   .png2 {
   background-color: #192744;
   min-height: 80px;
-  border-top: 3px solid #FFF;  
+  border-top: 1px solid #FFF;  
+/*  position: webkite-sticky;
+  position: sticky;
+  top: 50px;
+  z-index: 99;*/
   }
 
   .section {
@@ -80,6 +84,28 @@
   color: #ddd;
   }
 
+  .sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #8C1422;
+  color: #FFF;
+  padding: 10px;
+  font-size: 20px;
+  z-index: 100;
+  border-bottom: 1px solid #FFF;
+  }
+
+  .sticky a {
+  color: #FFF;
+  text-decoration: none;
+  }
+
+  .sticky a:hover {
+  background-color: #FFF;
+  color: #8C1422;
+  }
+
   .ptext {
   position: absolute;
   top: 50%;
@@ -90,8 +116,8 @@
   color: #000;
   font-size: 45px;
   letter-spacing: 8px;
-
   }
+
   .ptext .bd {
   background-color: #FFF;
   color: #192744;
