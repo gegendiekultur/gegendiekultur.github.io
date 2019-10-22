@@ -54,6 +54,20 @@
   available: 1
   link: "solidarity"
 
+- name: "Azadi"
+  costs: "50Sticker/2€"
+  picture: "azadi.jpg"
+  size: "5x14,5cm"
+  available: 1
+  link: "azadi"
+
+- name: "Nazijäger"
+  costs: "50Sticker/2€"
+  picture: "nazijaeger.jpg"
+  size: "7,4x10,5"
+  available: 1
+  link: "nazijaeger"
+
 - name: "Free Gaza from Hamas"
   costs: "50Sticker/2€"
   picture: "freegazasqr.jpg"

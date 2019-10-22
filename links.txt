@@ -1,3 +1,10 @@
+----- Allgemein -----
+#sticker	- Sticker
+#kontakt	- Kontakt
+#faq		- Fragen & Antworten
+#key		- PGP-Key
+
+----- Sticker -----
 #freegaza	- Free Gaza from Hamas
 #fghtbds	- FGHT BDS
 #antifasoli	- Antifa heißt Solidarität mit Israel
@@ -5,7 +12,8 @@
 #logoklein	- Antifa Logo klein
 #kss		- Kein Schlussstrich
 #merkava	- Merkava
+#azadi		- Azadi
+#nazijaeger	- Nazijäger
 #freegazaold	- Free Gaza From Hamas (quadratisch)
 #solidarity	- Solidarity
 #fckbds		- FCKBDS
-#key		- GPG-Key
