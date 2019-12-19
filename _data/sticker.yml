@@ -1,3 +1,10 @@
+- name "Zionist Antifascists"
+  costs: "30Sticker/2€"
+  picture: "zioafa.jpg"
+  size: "Ø9.5cm"
+  available: 1
+  link: zioafa
+
 - name: "Free Gaza From Hamas - hoch"
   costs: "50Sticker/2€"
   picture: "freegazafromhamas.jpg"
@@ -6,11 +13,11 @@
   link: "freegaza"
 
 - name: "FGHT BDS"
-  costs: "80Sticker/2€"
-  picture: "fghtbds_web.jpg"
-  size: "7.5x7.5 cm"
-  available: 0
-  link: "fghtbds"
+  costs: "30Sticker/2€"
+  picture: "fghtbdssilver.jpg"
+  size: "10x10cm"
+  available: 1
+  link: "fghtbdssilver"
 
 - name: "Antifa heißt Solidarität mit Israel"
   costs: "40Sticker/2€"
@@ -67,6 +74,13 @@
   size: "7,4x10,5"
   available: 1
   link: "nazijaeger"
+
+- name: "FGHT BDS"
+  costs: "80Sticker/2€"
+  picture: "fghtbds_web.jpg"
+  size: "7.5x7.5 cm"
+  available: 0
+  link: "fghtbds"
 
 - name: "Free Gaza from Hamas"
   costs: "50Sticker/2€"
