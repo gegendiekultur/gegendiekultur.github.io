@@ -5,8 +5,9 @@
 #key		- PGP-Key
 
 ----- Sticker -----
+#zioafa		- Zionist Antifascists
 #freegaza	- Free Gaza from Hamas
-#fghtbds	- FGHT BDS
+#fghtbdssilver	- FGHT BDS Silber
 #antifasoli	- Antifa heißt Solidarität mit Israel
 #logogross	- Antifa Logo groß
 #logoklein	- Antifa Logo klein
@@ -16,4 +17,5 @@
 #nazijaeger	- Nazijäger
 #freegazaold	- Free Gaza From Hamas (quadratisch)
 #solidarity	- Solidarity
+#fghtbds	- FGHT BDS
 #fckbds		- FCKBDS
