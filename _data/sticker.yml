@@ -30,14 +30,14 @@
   costs: "40Sticker/2€"
   picture: "afalogogross.jpg"
   size: "Ø9.5cm"
-  available: 1
+  available: 0
   link: "logogross"
 
 - name: "Antifa Logo klein"
   costs: "40Sticker/1€"
   picture: "afalogoklein.jpg"
   size: "Ø5cm"
-  available: 1
+  available: 0
   link: "logoklein"
 
 - name: "Kein Schlussstrich"
