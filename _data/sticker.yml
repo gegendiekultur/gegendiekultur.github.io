@@ -1,3 +1,10 @@
+- name: "Nakam"
+  costs: "30 Sticker/2€"
+  picture: "nakam.jpg"
+  size: "15x10cm"
+  available: 1
+  link: nakam
+
 - name: "Zionist Antifascists"
   costs: "30Sticker/2€"
   picture: "zioafa.jpg"
@@ -37,7 +44,7 @@
   costs: "40Sticker/1€"
   picture: "afalogoklein.jpg"
   size: "Ø5cm"
-  available: 0
+  available: 1
   link: "logoklein"
 
 - name: "Kein Schlussstrich"
