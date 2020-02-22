@@ -16,7 +16,7 @@
   costs: "50Sticker/2€"
   picture: "freegazafromhamas.jpg"
   size: "5x15,5cm"
-  available: 0
+  available: 1
   link: "freegaza"
 
 - name: "FGHT BDS"
@@ -25,13 +25,6 @@
   size: "10x10cm"
   available: 1
   link: "fghtbdssilver"
-
-- name: "Antifa heißt Solidarität mit Israel"
-  costs: "40Sticker/2€"
-  picture: "afasoli.jpg"
-  size: "3.5x21cm"
-  available: 0
-  link: "antifasoli"
 
 - name: "Antifa Logo groß"
   costs: "40Sticker/2€"
@@ -54,20 +47,6 @@
   available: 1
   link: "kss"
 
-- name: Merkava
-  costs: "20 Sticker/2€"
-  picture: "merkava.jpg"
-  size: "Ø10cm"
-  available: 1
-  link: "merkava"
-
-- name: "Solidarity"
-  costs: "50Sticker/2€"
-  picture: "solidarity.jpg"
-  size: "5x14,5cm"
-  available: 1
-  link: "solidarity"
-
 - name: "Azadî"
   costs: "50Sticker/2€"
   picture: "azadi.jpg"
@@ -89,6 +68,13 @@
   available: 0
   link: "fghtbds"
 
+- name: Merkava
+  costs: "20 Sticker/2€"
+  picture: "merkava.jpg"
+  size: "Ø10cm"
+  available: 0
+  link: "merkava"
+
 - name: "Free Gaza from Hamas"
   costs: "50Sticker/2€"
   picture: "freegazasqr.jpg"
@@ -102,3 +88,17 @@
   size: "10x10cm"
   available: 0
   link: "fckbds"
+
+- name: "Antifa heißt Solidarität mit Israel"
+  costs: "40Sticker/2€"
+  picture: "afasoli.jpg"
+  size: "3.5x21cm"
+  available: 0
+  link: "antifasoli"
+
+- name: "Solidarity"
+  costs: "50Sticker/2€"
+  picture: "solidarity.jpg"
+  size: "5x14,5cm"
+  available: 0
+  link: "solidarity"
