@@ -44,7 +44,7 @@
   costs: "30Sticker/2€"
   picture: "keinschlussstrich.jpg"
   size: "15x10cm"
-  available: 1
+  available: 0
   link: "kss"
 
 - name: "Azadî"
@@ -58,7 +58,7 @@
   costs: "50Sticker/2€"
   picture: "nazijaeger.jpg"
   size: "7,4x10,5"
-  available: 1
+  available: 0
   link: "nazijaeger"
 
 - name: "FGHT BDS"
