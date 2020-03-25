@@ -15,3 +15,4 @@ Doch besonders seitdem die US-Truppen weitgehend aus Rojava abgezogen wurden, st
 
 Wir möchten unseren Teil dazu beitragen, dieses progressive und vielversprechende Projekt zu unterstützen. Wir haben daher Aufnäher sticken lassen und möchten den gesamten Erlös aus dem Verkauf der Aufnäher für den Aufbau und Erhalt der zivilen Infrastruktur in Rojava spenden.
 
+Helft uns dabei! Kauft die Patches, für Euch, für Eure Gruppe, für den nächsten Büchertisch, erzählt euren Freund\*innen davon, nutzt eure Social-Media-Reichweite oder informiert Euch einfach über Rojava.
