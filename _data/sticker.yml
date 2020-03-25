@@ -1,3 +1,10 @@
+- name: "Riseup4Rojava"
+  costs: "1 Aufnäher/5€"
+  picture: "riseup4rojava.jpg"
+  size: "Ø7,5cm"
+  available: 1
+  link: riseup4rojava
+
 - name: "Nakam"
   costs: "30 Sticker/2€"
   picture: "nakam.jpg"
