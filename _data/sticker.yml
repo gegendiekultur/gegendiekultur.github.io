@@ -2,7 +2,7 @@
   costs: "1 Aufnäher/5€"
   picture: "rojavapatches.jpg"
   size: "Ø7,5cm"
-  available: 1
+  available: 0
   link: riseup4rojava
 
 - name: "Nakam"
@@ -30,7 +30,7 @@
   costs: "50Sticker/2€"
   picture: "freegazafromhamas.jpg"
   size: "5x15,5cm"
-  available: 1
+  available: 0
   link: "freegaza"
 
 - name: "FGHT BDS"
@@ -72,7 +72,7 @@
   costs: "50Sticker/2€"
   picture: "nazijaegerinnen.jpg"
   size: "7,4x10,5"
-  available: 1
+  available: 0
   link: "nazijaegerinnen"
 
 - name: "Nazijäger"
