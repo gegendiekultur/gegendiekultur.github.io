@@ -5,6 +5,13 @@
   available: 0
   link: riseup4rojava
 
+- name: "Hish Aufnäher"
+  costs: "1 Aufnäher/5€"
+  picture: "hish.jpg"
+  size: "Höhe 10cm"
+  available: 1
+  link: hish
+
 - name: "Nakam"
   costs: "30 Sticker/2€"
   picture: "nakam.jpg"
