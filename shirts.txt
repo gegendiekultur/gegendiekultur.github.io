@@ -1,20 +1,12 @@
 Weiß, Zionist Antifascist
 	Regular
 		XS 	1
-		S 	4
-		M	10
-		L	8
+		M	3
 		XL	3
-		XXL	2
 
 	Fitted
-		S	1
 		M	3
 		L	2
 
-Schwarz, Antifa heißt Solidarität mit Israel
-	Regular
-		M	2
-		L	3
-		XL	2
-		XXL	2
+aktualisiert:
+03.06.2020
