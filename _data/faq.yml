@@ -1,11 +1,14 @@
+- frage: "Ich habe eine Nachricht geschrieben aber keine Antwort bekommen."
+  antwort: "Um die Arbeitsbelastung von diesem Freizeitprojekt gering zu halten, antworte ich hauptsächlich Mittwochs und Sonntag. Wenn seit deiner Nachricht ein Mittwoch oder Sonntag ohne Antwort vergangen ist, melde sich gern nochmal, manchmal werden Nachrichten auch schlicht übersehen."
+
 - frage: "Was kostet der Versand?"
   antwort: "Die Versandkosten sind abhängig von der Menge der bestellten Sticker beziehungsweise dem Gewicht. Erfahrungsgemäß kostet der Versand bis etwa 150 Sticker 2€, darüber 3.30€. Ab etwa 350Stickern wird es nochmal etwas teurer, dafür wird dann per versichertem Paket verschickt. Du hast außerdem gibt es die Möglichkeit für 1€ Prio dazuzubuchen. Damit wird der Brief etwas schneller zugestellt und es gibt die Möglichkeit der Sendungsverfolgung."
 
 - frage: "Wie bestelle ich?"
-  antwort: "Bestellen kannst du per Mail, Jabber, Twitter oder Instagram. Mit Jabber ist die Verschlüsselung (OTR oder OMEMO) besonders einfach, was sehr zum Schutz deiner Daten beiträgt."
+  antwort: "Bestellen kannst du per Mail, Jabber oder Signal (die Nummer bekommst du nach Anfrage, auch über Social Media). Mit Jabber und Signal ist die Verschlüsselung besonders einfach, was sehr zum Schutz deiner Daten beiträgt."
 
 - frage: "Wie bezahle ich?"
-  antwort: "Am besten per Cryptowährung (Bitcoin, Litecoin, Monero), daneben geht aber auch Paypal. Wenn du beides nicht hast, finden wir meist trotzdem eine Lösung!"
+  antwort: "Am besten per Cryptowährung (Bitcoin, Litecoin, Monero) oder eben per Überweisung. Wenn beides für dich keine Option ist, finden wir gemeinsam eine Lösung."
 
 - frage: "Habe ich ein Widerrufsrecht?"
   antwort: "Nein. Da es sich hierbei nicht um ein gewerbliches Angebot handelt, sondern die Sticker lediglich zum Selbstkostenpreis abgegeben werden, gibt es auch kein Widerrufsrecht."

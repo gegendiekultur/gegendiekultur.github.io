@@ -58,7 +58,7 @@
   costs: "40Sticker/1€"
   picture: "afalogoklein.jpg"
   size: "Ø5cm"
-  available: 0
+  available: 1
   link: "logoklein"
 
 - name: "Kein Schlussstrich"
