@@ -30,7 +30,7 @@
   costs: "50Sticker/1€"
   picture: "itc.jpg"
   size: "12x3cm"
-  available: 1
+  available: 0
   link: "itc"
 
 - name: "Free Gaza From Hamas - hoch"
@@ -44,7 +44,7 @@
   costs: "30Sticker/2€"
   picture: "fghtbdssilver.jpg"
   size: "10x10cm"
-  available: 1
+  available: 0
   link: "fghtbdssilver"
 
 - name: "Antifa Logo groß"
