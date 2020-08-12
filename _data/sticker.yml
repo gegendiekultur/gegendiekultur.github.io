@@ -5,6 +5,13 @@
   available: 0
   link: riseup4rojava
 
+- name: "Palmach"
+  costs: "1 Aufnäher/5€"
+  picture: "palmach.jpg"
+  size: "Höhe 10cm"
+  available: 0
+  link: palmach
+
 - name: "Hish Aufnäher"
   costs: "1 Aufnäher/5€"
   picture: "hish.jpg"
