@@ -23,14 +23,14 @@
   costs: "30 Sticker/2€"
   picture: "nakam.jpg"
   size: "15x10cm"
-  available: 1
+  available: 0
   link: nakam
 
 - name: "Zionist Antifascists"
   costs: "30Sticker/2€"
   picture: "zioafa.jpg"
   size: "Ø9.5cm"
-  available: 1
+  available: 0
   link: zioafa
 
 - name: "Israel till communism"
@@ -72,7 +72,7 @@
   costs: "30Sticker/2€"
   picture: "keinschlussstrich.jpg"
   size: "15x10cm"
-  available: 1
+  available: 0
   link: "kss"
 
 - name: "Azadî"
