@@ -1,16 +1,58 @@
-- name: "Riseup4Rojava"
-  costs: "1 Aufnäher/5€"
-  picture: "rojavapatches.jpg"
-  size: "Ø7,5cm"
-  available: 0
-  link: riseup4rojava
-
-- name: "Palmach"
-  costs: "1 Aufnäher/5€"
-  picture: "palmach.jpg"
-  size: "Höhe 10cm"
+- name: "FGHT BDS"
+  costs: "80Sticker/2€"
+  picture: "fghtbds75.jpg"
+  size: "7.5x7.5 cm"
   available: 1
-  link: palmach
+  link: "fghtbds"
+
+- name: "Antifa Logo klein"
+  costs: "40Sticker/1€"
+  picture: "afalogoklein.jpg"
+  size: "Ø5cm"
+  available: 1
+  link: "logoklein"
+  
+- name: "Fight Facism"
+  costs: "40Sticker/1€"
+  picture: "161.jpg"
+  size: "Ø5cm"
+  available: 1
+  link: "161"
+
+- name: "Israel till communism"
+  costs: "50Sticker/1€"
+  picture: "itc.jpg"
+  size: "12x3cm"
+  available: 1
+  link: "itc"
+
+- name: "Free Gaza From Hamas - hoch"
+  costs: "50Sticker/2€"
+  picture: "freegazafromhamas.jpg"
+  size: "5x15,5cm"
+  available: 1
+  link: "freegaza"
+  
+- name: "Kein Schlussstrich"
+  costs: "30Sticker/2€"
+  picture: "keinschlussstrich.jpg"
+  size: "15x10cm"
+  available: 1
+  link: "kss"
+  
+- name: "Solidarity2"
+  costs: "50Sticker/2€"
+  picture: "solidarity2.jpg"
+  size: "5x14,5cm"
+  available: 1
+  link: "solidarity2"
+  
+- name: "Große Hunde"
+  costs: "30Sticker/2€"
+  picture: "gur.jpg"
+  size: "10x15cm"
+  available: 1
+  link: "gur"
 
 - name: "Hish Aufnäher"
   costs: "1 Aufnäher/5€"
@@ -18,34 +60,27 @@
   size: "Höhe 10cm"
   available: 1
   link: hish
-
-- name: "Nakam"
-  costs: "30 Sticker/2€"
-  picture: "nakam.jpg"
-  size: "15x10cm"
-  available: 0
-  link: nakam
-
-- name: "Zionist Antifascists"
-  costs: "30Sticker/2€"
-  picture: "zioafa.jpg"
-  size: "Ø9.5cm"
-  available: 0
-  link: zioafa
-
-- name: "Israel till communism"
-  costs: "50Sticker/1€"
-  picture: "itc.jpg"
-  size: "12x3cm"
-  available: 0
-  link: "itc"
-
-- name: "Free Gaza From Hamas - hoch"
-  costs: "50Sticker/2€"
-  picture: "freegazafromhamas.jpg"
-  size: "5x15,5cm"
-  available: 0
-  link: "freegaza"
+  
+- name: "Rojava Soli Gelb"
+  costs: "1 Aufnäher ab 5€"
+  picture: "rojavasoli2yellow.jpg"
+  size: "Ø7,5cm"
+  available: 1
+  link: rojavasoli2yellow
+  
+- name: "Rojava Soli Grün"
+  costs: "1 Aufnäher ab 5€"
+  picture: "rojavasoli2green.jpg"
+  size: "Ø7,5cm"
+  available: 1
+  link: rojavasoli2green
+  
+- name: "Haganah Aufnäher"
+  costs: "1 Aufnäher/4€"
+  picture: "haganahpatch.jpg"
+  size: "Höhe 4cm"
+  available: 1
+  link: haganahpatch
 
 - name: "FGHT BDS"
   costs: "30Sticker/2€"
@@ -61,25 +96,11 @@
   available: 0
   link: "logogross"
 
-- name: "Antifa Logo klein"
-  costs: "40Sticker/1€"
-  picture: "afalogoklein.jpg"
-  size: "Ø5cm"
-  available: 1
-  link: "logoklein"
-
-- name: "Kein Schlussstrich"
-  costs: "30Sticker/2€"
-  picture: "keinschlussstrich.jpg"
-  size: "15x10cm"
-  available: 0
-  link: "kss"
-
 - name: "Azadî"
   costs: "50Sticker/2€"
   picture: "azadi.jpg"
   size: "5x14,5cm"
-  available: 1
+  available: 0
   link: "azadi"
 
 - name: "Nazijägerinnen"
@@ -95,13 +116,6 @@
   size: "7,4x10,5"
   available: 0
   link: "nazijaeger"
-
-- name: "FGHT BDS"
-  costs: "80Sticker/2€"
-  picture: "fghtbds_web.jpg"
-  size: "7.5x7.5 cm"
-  available: 0
-  link: "fghtbds"
 
 - name: Merkava
   costs: "20 Sticker/2€"
@@ -137,3 +151,31 @@
   size: "5x14,5cm"
   available: 0
   link: "solidarity"
+  
+- name: "Riseup4Rojava"
+  costs: "1 Aufnäher/5€"
+  picture: "rojavapatches.jpg"
+  size: "Ø7,5cm"
+  available: 0
+  link: riseup4rojava
+  
+- name: "Palmach"
+  costs: "1 Aufnäher/5€"
+  picture: "palmach.jpg"
+  size: "Höhe 10cm"
+  available: 0
+  link: palmach
+  
+- name: "Nakam"
+  costs: "30 Sticker/2€"
+  picture: "nakam.jpg"
+  size: "15x10cm"
+  available: 0
+  link: nakam
+  
+- name: "Zionist Antifascists"
+  costs: "30Sticker/2€"
+  picture: "zioafa.jpg"
+  size: "Ø9.5cm"
+  available: 0
+  link: zioafa
