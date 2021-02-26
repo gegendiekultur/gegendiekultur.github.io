@@ -1,0 +1,10 @@
+{% for item in site.data.textil %}
+<div class="stickercard" id="{{ item.link }}">
+	<img src="/pictures/{{ item.picture }}" alt="{{ item.name }}" style="width:100%" {% if item.available == 0 %} class="soldout"{% endif %}>
+	<div class="container">
+		<p> {{ item.name }} | {{ item.class }} | {% unless item.size== empty %} {{ item.size }} |{% endunless %}{% if item.available == 0 %} <s>{{ item.costs }}</s>{% else %} {{ item.costs }}{% endif %}
+		{% unless item.sizes_available == empty %} <br> Verfügbare Größen: {{ item.sizes_available }} {% endunless %}{% unless item.notes == empty %} <hr><br> {{ item.notes }} {% endunless %}
+		<br>{% if item.available == 0 %}<font color="#FF0000"><b> Derzeit nicht verfügbar</b></font> {% endif %}</p>
+	</div>
+</div>
+{% endfor %}
