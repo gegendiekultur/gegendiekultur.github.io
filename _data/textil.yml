@@ -1,0 +1,69 @@
+- name: "Zionist Antifascist - schwarz"
+  class: "T-Shirt"
+  costs: "10€"
+  picture: "zioafaschwarz.jpg"
+  size: ""
+  sizes_available: "L, XL"
+  notes: ""
+  available: 1
+  link: zioafaschwarz
+
+- name: "Hish"
+  class: "Aufnäher"
+  costs: "1 Aufnäher/5€"
+  picture: "hish.jpg"
+  size: "Höhe 10cm"
+  sizes_available: ""
+  notes: ""
+  available: 1
+  link: hish
+
+- name: "Rojava Soli Gelb"
+  class: "Aufnäher"
+  costs: "Ab 5€"
+  picture: "rojavasoli2yellow.jpg"
+  size: "Ø7,5cm"
+  sizes_available: ""
+  notes: "Der Erlös wird vollständig gespendet, um den Kampf gegen Corona in Rojava zu unterstützen."
+  available: 1
+  link: rojavasoli2yellow
+
+- name: "Rojava Soli Grün"
+  class: "Aufnäher"
+  costs: "Ab 5€"
+  picture: "rojavasoli2green.jpg"
+  size: "Ø7,5cm"
+  sizes_available: ""
+  notes: "Der Erlös wird vollständig gespendet, um den Kampf gegen Corona in Rojava zu unterstützen."
+  available: 1
+  link: rojavasoli2green
+
+- name: "Haganah"
+  class: "Aufnäher"
+  costs: "1 Aufnäher/4€"
+  picture: "haganahpatch.jpg"
+  size: "Höhe 4cm"
+  sizes_available: ""
+  notes: ""
+  available: 1
+  link: haganahpatch
+
+- name: "Riseup4Rojava"
+  class: "Aufnäher"
+  costs: "1 Aufnäher/5€"
+  picture: "rojavapatches.jpg"
+  size: "Ø7,5cm"
+  sizes_available: ""
+  notes: ""
+  available: 0
+  link: riseup4rojava
+
+- name: "Palmach"
+  class: "Aufnäher"
+  costs: "1 Aufnäher/5€"
+  picture: "palmach.jpg"
+  size: "Höhe 10cm"
+  sizes_available: ""
+  notes: ""
+  available: 0
+  link: palmach

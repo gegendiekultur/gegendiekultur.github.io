@@ -54,34 +54,6 @@
   available: 1
   link: "gur"
 
-- name: "Hish Aufnäher"
-  costs: "1 Aufnäher/5€"
-  picture: "hish.jpg"
-  size: "Höhe 10cm"
-  available: 1
-  link: hish
-  
-- name: "Rojava Soli Gelb"
-  costs: "1 Aufnäher ab 5€"
-  picture: "rojavasoli2yellow.jpg"
-  size: "Ø7,5cm"
-  available: 1
-  link: rojavasoli2yellow
-  
-- name: "Rojava Soli Grün"
-  costs: "1 Aufnäher ab 5€"
-  picture: "rojavasoli2green.jpg"
-  size: "Ø7,5cm"
-  available: 1
-  link: rojavasoli2green
-  
-- name: "Haganah Aufnäher"
-  costs: "1 Aufnäher/4€"
-  picture: "haganahpatch.jpg"
-  size: "Höhe 4cm"
-  available: 1
-  link: haganahpatch
-
 - name: "FGHT BDS"
   costs: "30Sticker/2€"
   picture: "fghtbdssilver.jpg"
@@ -151,20 +123,6 @@
   size: "5x14,5cm"
   available: 0
   link: "solidarity"
-  
-- name: "Riseup4Rojava"
-  costs: "1 Aufnäher/5€"
-  picture: "rojavapatches.jpg"
-  size: "Ø7,5cm"
-  available: 0
-  link: riseup4rojava
-  
-- name: "Palmach"
-  costs: "1 Aufnäher/5€"
-  picture: "palmach.jpg"
-  size: "Höhe 10cm"
-  available: 0
-  link: palmach
   
 - name: "Nakam"
   costs: "30 Sticker/2€"
