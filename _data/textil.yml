@@ -1,3 +1,23 @@
+- name: "Zionist Antifascist - weiß (v2)"
+  class: "T-Shirt"
+  costs: "20€"
+  picture: "zioafa2.jpg"
+  size: ""
+  sizes_available: "XS-XXL(unisex), XS-L (fitted)"
+  notes: "Vom Erlös werden für jedes Shirt 5€ an die zivile Seenotrettung im Mittelmeer gespendet"
+  available: 1
+  link: zioafa2
+
+- name: "Sektion Abba Kovner"
+  class: "T-Shirt"
+  costs: "20€"
+  picture: "sab.jpg"
+  size: ""
+  sizes_available: "XS-XXL(unisex), XS-L (fitted)"
+  notes: "Vom Erlös werden für jedes Shirt 5€ an die zivile Seenotrettung im Mittelmeer gespendet"
+  available: 1
+  link: sab
+
 - name: "Zionist Antifascist - schwarz"
   class: "T-Shirt"
   costs: "10€"
