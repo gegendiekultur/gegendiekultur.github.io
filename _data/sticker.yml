@@ -11,6 +11,13 @@
   size: "Ø5cm"
   available: 1
   link: "logoklein"
+
+- name: "Antifa x Hish"
+  costs: "25Sticker/2€"
+  picture: "antifaxhish.jpg"
+  size: "Ø10cm"
+  available: 1
+  link: antifaxhish
   
 - name: "Fight Facism"
   costs: "40Sticker/1€"
