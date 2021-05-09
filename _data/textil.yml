@@ -3,7 +3,7 @@
   costs: "20€"
   picture: "zioafa2.jpg"
   size: ""
-  sizes_available: "XS-XXL(unisex), XS-L (fitted)"
+  sizes_available: "M, XL, XXL(unisex), XS-M (fitted)"
   notes: "Vom Erlös werden für jedes Shirt 5€ an die zivile Seenotrettung im Mittelmeer gespendet"
   available: 1
   link: zioafa2
@@ -13,7 +13,7 @@
   costs: "20€"
   picture: "sab.jpg"
   size: ""
-  sizes_available: "XS-XXL(unisex), XS-L (fitted)"
+  sizes_available: "XS-XXL(unisex), S-M (fitted)"
   notes: "Vom Erlös werden für jedes Shirt 5€ an die zivile Seenotrettung im Mittelmeer gespendet"
   available: 1
   link: sab
@@ -23,7 +23,7 @@
   costs: "10€"
   picture: "zioafaschwarz.jpg"
   size: ""
-  sizes_available: "L, XL"
+  sizes_available: "XL, XXL"
   notes: ""
   available: 1
   link: zioafaschwarz
