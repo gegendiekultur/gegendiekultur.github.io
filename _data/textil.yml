@@ -3,7 +3,7 @@
   costs: "20€"
   picture: "zioafa2.jpg"
   size: ""
-  sizes_available: "M, XL, XXL(unisex), XS-M (fitted)"
+  sizes_available: "XXL(unisex), XS-M (fitted)"
   notes: "Vom Erlös werden für jedes Shirt 5€ an die zivile Seenotrettung im Mittelmeer gespendet"
   available: 1
   link: zioafa2
@@ -13,17 +13,30 @@
   costs: "20€"
   picture: "sab.jpg"
   size: ""
-  sizes_available: "XS-XXL(unisex), S-M (fitted)"
+  sizes_available: "XS, M, L, XL, XXL(unisex), S-M (fitted)"
   notes: "Vom Erlös werden für jedes Shirt 5€ an die zivile Seenotrettung im Mittelmeer gespendet"
   available: 1
   link: sab
+
+
+- name: "Sektion Abba Kovner"
+  class: "Beutel"
+  costs: "8€"
+  picture: "kovnerbeutel.jpg"
+  size: ""
+  sizes_available: ""
+  notes: ""
+  available: 1
+  link: kovnerbeutel
+
+
 
 - name: "Zionist Antifascist - schwarz"
   class: "T-Shirt"
   costs: "10€"
   picture: "zioafaschwarz.jpg"
   size: ""
-  sizes_available: "XL, XXL"
+  sizes_available: "XXL"
   notes: ""
   available: 1
   link: zioafaschwarz
@@ -57,6 +70,16 @@
   notes: "Der Erlös wird vollständig gespendet, um den Kampf gegen Corona in Rojava zu unterstützen."
   available: 1
   link: rojavasoli2green
+
+- name: "Antifa x Hish"
+  class: "Aufnäher"
+  costs: "1 Aufnäher/5€"
+  picture: "antifaxhishpatch.jpg"
+  size: "Ø7,5cm"
+  sizes_available: ""
+  notes: ""
+  available: 1
+  link: antifaxhishpatch
 
 - name: "Haganah"
   class: "Aufnäher"
