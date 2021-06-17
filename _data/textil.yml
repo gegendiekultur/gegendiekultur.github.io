@@ -29,8 +29,6 @@
   available: 1
   link: kovnerbeutel
 
-
-
 - name: "Zionist Antifascist - schwarz"
   class: "T-Shirt"
   costs: "10€"
@@ -70,6 +68,17 @@
   notes: "Der Erlös wird vollständig gespendet, um den Kampf gegen Corona in Rojava zu unterstützen."
   available: 1
   link: rojavasoli2green
+
+- name: "Antifa x Hish - B-Ware"
+  class: "Aufnäher"
+  costs: "1 Aufnäher/5€"
+  picture: "afaxhishpatchb.jpg"
+  size: "Ø7,5cm"
+  sizes_available: ""
+  notes: "Diese Charge ist nicht ganz so schön, wie die Ursprünglichen, aber brauchbar, deswegen günstiger"
+  available: 1
+  link: antifaxhishpatchb
+
 
 - name: "Antifa x Hish"
   class: "Aufnäher"
