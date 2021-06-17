@@ -2,7 +2,7 @@
   costs: "80Sticker/2€"
   picture: "fghtbds75.jpg"
   size: "7.5x7.5 cm"
-  available: 1
+  available: 0
   link: "fghtbds"
 
 - name: "Antifa Logo klein"
@@ -37,7 +37,7 @@
   costs: "50Sticker/2€"
   picture: "freegazafromhamas.jpg"
   size: "5x15,5cm"
-  available: 1
+  available: 0
   link: "freegaza"
   
 - name: "Kein Schlussstrich"
