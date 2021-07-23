@@ -123,6 +123,28 @@ pre {
   color: #8C1422;
   }
 
+  .psa {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 50px;
+  background-color: #8C1422;
+  color: #FFF;
+  padding: 10px;
+  font-size: 20px;
+  z-index: 100;
+  border-bottom: 1px solid #FFF;
+  }
+
+  .psa a {
+  background-color: #FFF;
+  color: #8C1422;
+  }
+
+  .psa a:hover {
+  background-color: #8C1422;
+  color: #FFF;
+  }
+
   .ptext {
   position: absolute;
   top: 50%;
