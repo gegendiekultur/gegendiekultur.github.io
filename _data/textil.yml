@@ -8,6 +8,16 @@
   available: 1
   link: zioafasw
 
+ - name: "Gegen jeden Antisemitismus (schwarz)"
+  class: "T-Shirt"
+  costs: "10€"
+  picture: "gjabw.jpg"
+  size: ""
+  sizes_available: "XS-XXL (unisex)"
+  notes: "Das Bild zeigt noch ein Symbolbild, die Shirts kommen die nächsten Tag bei uns an"
+  available: 1
+  link: zioafasw
+
 - name: "Gegen jeden Antisemitismus (weiß)"
   class: "T-Shirt"
   costs: "10€"
