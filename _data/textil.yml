@@ -43,7 +43,7 @@
   costs: "20€"
   picture: "sab.jpg"
   size: ""
-  sizes_available: "XS, XXL(unisex), S-M (fitted)"
+  sizes_available: "XS, (unisex), S-M (fitted)"
   notes: "Vom Erlös werden für jedes Shirt 5€ an die zivile Seenotrettung im Mittelmeer gespendet"
   available: 1
   link: sab
@@ -76,7 +76,7 @@
   size: "Höhe 10cm"
   sizes_available: ""
   notes: ""
-  available: 1
+  available: 0
   link: hish
 
 - name: "Rojava Soli Gelb"
@@ -127,7 +127,7 @@
   size: "Höhe 4cm"
   sizes_available: ""
   notes: ""
-  available: 1
+  available: 0
   link: haganahpatch
 
 - name: "Riseup4Rojava"
