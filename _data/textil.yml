@@ -13,8 +13,8 @@
   costs: "10€"
   picture: "gjabw.jpg"
   size: ""
-  sizes_available: "XS-XXL (unisex)"
-  notes: "Das Bild zeigt noch ein Symbolbild, die Shirts kommen die nächsten Tag bei uns an"
+  sizes_available: "S-XL (unisex)"
+  notes: ""
   available: 1
   link: zioafasw
 
@@ -23,7 +23,7 @@
   costs: "10€"
   picture: "gja.jpg"
   size: ""
-  sizes_available: "XS-XXL (unisex)"
+  sizes_available: "S-XXL (unisex)"
   notes: ""
   available: 1
   link: gjaw
@@ -33,7 +33,7 @@
   costs: "20€"
   picture: "zioafa2.jpg"
   size: ""
-  sizes_available: "XXL(unisex), XS-M (fitted)"
+  sizes_available: "XS-S (fitted)"
   notes: "Vom Erlös werden für jedes Shirt 5€ an die zivile Seenotrettung im Mittelmeer gespendet"
   available: 1
   link: zioafa2
@@ -43,7 +43,7 @@
   costs: "20€"
   picture: "sab.jpg"
   size: ""
-  sizes_available: "XS, (unisex), S-M (fitted)"
+  sizes_available: "S-M (fitted)"
   notes: "Vom Erlös werden für jedes Shirt 5€ an die zivile Seenotrettung im Mittelmeer gespendet"
   available: 1
   link: sab
