@@ -2,7 +2,7 @@
   costs: "40Sticker/2€"
   picture: "fgfhfwfa.jpg"
   size: "3.5x21cm"
-  available: 1
+  available: 0
   link: "fgfhfwfa"
 
 - name: "FGHT BDS"
@@ -23,7 +23,7 @@
   costs: "25Sticker/2€"
   picture: "antifaxhish.jpg"
   size: "Ø10cm"
-  available: 1
+  available: 0
   link: antifaxhish
   
 - name: "Fight Fascism"
@@ -58,7 +58,7 @@
   costs: "50Sticker/2€"
   picture: "solidarity2.jpg"
   size: "5x14,5cm"
-  available: 1
+  available: 0
   link: "solidarity2"
   
 - name: "Große Hunde"
