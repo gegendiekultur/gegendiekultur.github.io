@@ -15,7 +15,7 @@
   size: ""
   sizes_available: "S-XL (unisex)"
   notes: ""
-  available: 1
+  available: 0
   link: zioafasw
 
 - name: "Gegen jeden Antisemitismus (weiß)"
@@ -25,7 +25,7 @@
   size: ""
   sizes_available: "S-XXL (unisex)"
   notes: ""
-  available: 1
+  available: 0
   link: gjaw
 
 - name: "Zionist Antifascist - weiß (v2)"
@@ -35,7 +35,7 @@
   size: ""
   sizes_available: "XS-S (fitted)"
   notes: "Vom Erlös werden für jedes Shirt 5€ an die zivile Seenotrettung im Mittelmeer gespendet"
-  available: 1
+  available: 0
   link: zioafa2
 
 - name: "Sektion Abba Kovner"
@@ -45,7 +45,7 @@
   size: ""
   sizes_available: "S-M (fitted)"
   notes: "Vom Erlös werden für jedes Shirt 5€ an die zivile Seenotrettung im Mittelmeer gespendet"
-  available: 1
+  available: 0
   link: sab
 
 
@@ -56,7 +56,7 @@
   size: ""
   sizes_available: ""
   notes: ""
-  available: 1
+  available: 0
   link: kovnerbeutel
 
 - name: "Zionist Antifascist - schwarz"
@@ -106,7 +106,7 @@
   size: "Ø7,5cm"
   sizes_available: ""
   notes: "Diese Charge ist nicht ganz so schön, wie die Ursprünglichen, aber brauchbar, deswegen günstiger"
-  available: 1
+  available: 0
   link: antifaxhishpatchb
 
 

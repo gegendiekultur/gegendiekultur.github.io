@@ -30,7 +30,7 @@
   costs: "40Sticker/1€"
   picture: "161.jpg"
   size: "Ø5cm"
-  available: 1
+  available: 0
   link: "161"
 
 - name: "Israel till communism"
@@ -51,7 +51,7 @@
   costs: "30Sticker/2€"
   picture: "keinschlussstrich.jpg"
   size: "15x10cm"
-  available: 1
+  available: 0
   link: "kss"
   
 - name: "Solidarity2"
@@ -65,7 +65,7 @@
   costs: "30Sticker/2€"
   picture: "gur.jpg"
   size: "10x15cm"
-  available: 1
+  available: 0
   link: "gur"
 
 - name: "FGHT BDS"
